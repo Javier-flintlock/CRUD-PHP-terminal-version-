@@ -16,7 +16,7 @@ I'm a passionate web developer based in Indonesia, currently diving deep into th
   `HTML` `CSS` `JavaScript` `PHP` `Laravel`
 
 - **CMS Platforms**:  
-  `WordPress` `OctoberCMS` `Statamic`
+  `WordPress` `Odoo`
 
 - **Design Tools**:  
   `Figma` `Canva` `Adobe XD`
