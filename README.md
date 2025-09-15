@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Victor!
+# 👋 Hi, I'm Javier!
 
 🎯 Junior Web Developer | Laravel Enthusiast | CMS Explorer | Figma Fanatic
 
@@ -43,8 +43,8 @@ I'm a passionate web developer based in Indonesia, currently diving deep into th
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🌐 [Portfolio](https://your-portfolio.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/javier-daffa-valderama-3a4b752a0/)
+- 🌐 [Portfolio](https://#)  
 - 📧 Email: your.email@example.com
 
 ---
