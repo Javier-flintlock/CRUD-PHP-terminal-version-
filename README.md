@@ -44,8 +44,8 @@ I'm a passionate web developer based in Indonesia, currently diving deep into th
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/javier-daffa-valderama-3a4b752a0/)
-- 🌐 [Portfolio](https://#)  
-- 📧 Email: your.email@example.com
+- 🌐 [Portfolio](https://javier-bio.odoo.com)  
+- 📧 Email: javierdaffavalderama@gmail.com
 
 ---
 
