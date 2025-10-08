@@ -49,4 +49,4 @@ I'm a passionate web developer based in Indonesia, currently diving deep into th
 
 ---
 
-> “Code is poetry. Design is rhythm. I build with both.”
+> “No coding, no food.”
